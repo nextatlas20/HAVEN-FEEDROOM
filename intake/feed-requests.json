@@ -1,0 +1,14 @@
+[
+  {"request_id":"RQ-201","animal":"Swift brood A","formula":"Avian Recovery","needed_ml":600,"priority":"emergency","requested_utc":"2051-06-12T05:10:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-202","animal":"Hedgehog H-7","formula":"Hedgehog Starter","needed_ml":400,"priority":"high","requested_utc":"2051-06-12T05:25:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-203","animal":"Otter pup Nori","formula":"Marine Milk","needed_ml":800,"priority":"high","requested_utc":"2051-06-12T05:20:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-204","animal":"Swift brood B","formula":"Avian Recovery","needed_ml":200,"priority":"routine","requested_utc":"2051-06-12T05:40:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-205","animal":"Kestrel K-2","formula":"Avian Recovery","needed_ml":250,"priority":"high","requested_utc":"2051-06-12T05:30:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-205","animal":"Kestrel K-2","formula":"Avian Recovery","needed_ml":300,"priority":"high","requested_utc":"2051-06-12T05:30:00Z","status":"approved","revision":2},
+  {"request_id":"RQ-206","animal":"Fawn F-4","formula":"Fawn Electrolyte","needed_ml":150,"priority":"emergency","requested_utc":"2051-06-12T05:05:00Z","status":"approved","revision":1},
+  {"request_id":"RQ-206","animal":"Fawn F-4","formula":"Fawn Electrolyte","needed_ml":150,"priority":"emergency","requested_utc":"2051-06-12T05:05:00Z","status":"cancelled","revision":2},
+  {"request_id":"RQ-207","animal":"Invalid extra","formula":"Avian Recovery","needed_ml":10,"priority":"routine","requested_utc":"2051-06-12T05:50:00Z","status":"approved","revision":1,"note":"ignore"},
+  {"request_id":"RQ-208","animal":"Boolean amount","formula":"Marine Milk","needed_ml":true,"priority":"routine","requested_utc":"2051-06-12T05:50:00Z","status":"approved","revision":1},
+  {"request_id":"bad","animal":"Bad identifier","formula":"Marine Milk","needed_ml":20,"priority":"routine","requested_utc":"2051-06-12T05:50:00Z","status":"approved","revision":1},
+  "not an object"
+]

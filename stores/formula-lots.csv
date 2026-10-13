@@ -1,0 +1,16 @@
+lot_id,formula,expires_utc,quantity_ml,state,revision
+FM-101,Avian Recovery,2051-06-12T12:00:00Z,800,released,1
+FM-102,Avian Recovery,2051-06-13T09:00:00Z,400,released,1
+FM-103,Hedgehog Starter,2051-06-12T11:00:00Z,300,released,1
+FM-104,Hedgehog Starter,2051-06-14T08:00:00Z,250,held,1
+FM-105,Marine Milk,2051-06-12T05:30:00Z,600,released,1
+FM-106,Marine Milk,2051-06-13T06:00:00Z,700,released,1
+FM-107,Fawn Electrolyte,2051-06-15T06:00:00Z,200,released,1
+FM-101,Avian Recovery,2051-06-12T12:00:00Z,500,released,2
+FM-102,Old Avian Name,2051-06-13T09:00:00Z,430,released,2
+FM-102,Avian Recovery,2051-06-13T09:00:00Z,450,released,2
+FM-108,Bad|Formula,2051-06-13T00:00:00Z,100,released,1
+FM-109,Test Formula,not-a-time,100,released,1
+FM-110,Test Formula,2051-06-14T00:00:00Z,0,released,1
+broken,row
+
