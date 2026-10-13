@@ -1,0 +1,6 @@
+request_id,animal,formula,priority,requested_ml,allocated_ml,shortage_ml,outcome,lot_draws
+RQ-201,Swift brood A,Avian Recovery,emergency,600,600,0,fulfilled,FM-101:500;FM-102:100
+RQ-203,Otter pup Nori,Marine Milk,high,800,700,100,shortage,FM-106:700
+RQ-202,Hedgehog H-7,Hedgehog Starter,high,400,300,100,shortage,FM-103:300
+RQ-205,Kestrel K-2,Avian Recovery,high,300,300,0,fulfilled,FM-102:300
+RQ-204,Swift brood B,Avian Recovery,routine,200,50,150,shortage,FM-102:50
